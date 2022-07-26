@@ -4,7 +4,7 @@ public class StringReverse {
 		// TODO Auto-generated method stub
 		
 		String name = "sees", rev="";
-		
+		b
 		for(int i=name.length()-1; i>=0; i--)
 		{
 			rev= rev + name.charAt(i);
